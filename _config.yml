@@ -1,0 +1,18 @@
+title: wgpu user stories
+description: >-
+  This little blog collects battle stories of `wgpu` users.
+  It's a place anyone could share their progress with the community.
+baseurl: "/stories"
+url: "https://gfx-rs.github.io"
+
+#theme: jekyll-theme-tactile
+theme: minima
+plugins:
+  - jekyll-feed
+
+highlighter: rouge
+urls:
+    - text: github
+      url: https://github.com/gfx-rs/wgpu-rs
+
+show_downloads: false
