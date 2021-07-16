@@ -5,6 +5,8 @@ description: >-
 baseurl: "/stories"
 url: "https://gfx-rs.github.io"
 
+permalink: /:title:output_ext
+
 #theme: jekyll-theme-tactile
 theme: minima
 plugins:
