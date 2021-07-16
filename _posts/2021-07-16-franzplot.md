@@ -2,7 +2,6 @@
 layout: post
 title:  "Franzplot: a teaching software (re)written in Rust"
 author: Francesco Cattoglio
-categories: [ stories ]
 ---
 # Franzplot: a teaching software (re)written in Rust
 

@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-See [gfx-rs blog](https://gfx-rs.github.io/) for the development side of gfx-rs and wgpu projects.
+This little blog collects battle stories of [wgpu](https://github.com/gfx-rs/wgpu) users.
+It's a place anyone could share their progress with the community, to capture a moment
+in time where things were rendering nicely... or not.
+
+See also the [developers blog](https://gfx-rs.github.io/).
